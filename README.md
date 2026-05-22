@@ -2,48 +2,85 @@
 <h3 align="center">Programmer from Indonesia | Web, Mobile, Backend & Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raisnafis&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=raisnafis&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### About Me
+## About Me
 
-- Passionate about software development and technology  
-- Experienced with web development, mobile apps, backend, database, and cloud infrastructure  
-- Currently learning deeper about Android, Java, Laravel, AWS, and backend systems  
-- Interested in building real-world applications and scalable systems  
+- Passionate about programming and software development
+- Interested in Web Development, Mobile Apps, Backend, Database, and Cloud Infrastructure
+- Currently learning Android, Java, Laravel, AWS, and Backend Systems
+- Building real-world projects and scalable applications
 
 ---
 
-### Tech Stack
+## Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,laravel,python,java,kotlin,go,cpp,cs,dart,flutter,mysql,postgres,mongodb,git,linux,nginx,tailwind,bootstrap,androidstudio" />
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,go" />
+</p>
+
+### Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,flutter,dart" />
+</p>
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,cpp,cs,php,dart" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+</p>
+
+### Cloud & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,nginx,aws,docker,git,github" />
 </p>
 
 ---
 
-### GitHub Stats
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raisnafis&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisnafis&layout=compact&theme=tokyonight" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raisnafis&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisnafis&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raisnafis&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raisnafis&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### Connect With Me
+## Contribution Snake
 
-<p align="left">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raisnafis/raisnafis/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://instagram.com/your-instagram">
+    <img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram" />
   </a>
 </p>
