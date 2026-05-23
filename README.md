@@ -47,11 +47,18 @@ const raisAnnafis = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaisNafis&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=FF6B9D&text_color=ffffff"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaisNafis&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=ffffff"/>
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaisNafis&theme=radical" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaisNafis&theme=radical" />
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=RaisNafis&theme=radical&hide_border=true&background=0D1117&ring=C084FC&fire=FF6B9D&currStreakLabel=C084FC&sideLabels=ffffff&dates=888888" />
 
