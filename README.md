@@ -104,13 +104,13 @@ const raisAnnafis = {
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman&theme=dark&perline=8" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=CC2927" />
+  <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Antigravity%20AI-000000?style=for-the-badge&logo=sparkles&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity_AI-5B21B6?style=for-the-badge&logo=rocket&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 <h3>🖥️ Operating System</h3>
@@ -129,19 +129,19 @@ const raisAnnafis = {
 <div align="center">
 
 <a href="mailto:your-email@gmail.com">
-  <img src="./badges/gmail.svg" height="36" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.linkedin.com/in/your-linkedin">
-  <img src="./badges/linkedin.svg" height="36" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://instagram.com/your-instagram">
-  <img src="./badges/instagram.svg" height="36" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://your-portfolio.com">
-  <img src="./badges/portfolio.svg" height="36" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <br/><br/>
