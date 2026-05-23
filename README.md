@@ -115,33 +115,24 @@ const raisAnnafis = {
 
 ---
 
-## 🐍 &nbsp;Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RaisNafis/raisnafis/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
-<br/>
-
----
-
 ## 🤝 &nbsp;Let's Connect
 
 <div align="center">
+
 <a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="./badges/gmail.svg" height="36" alt="Gmail" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="./badges/linkedin.svg" height="36" alt="LinkedIn" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://instagram.com/your-instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="./badges/instagram.svg" height="36" alt="Instagram" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="./badges/portfolio.svg" height="36" alt="Portfolio" />
 </a>
 
 <br/><br/>
