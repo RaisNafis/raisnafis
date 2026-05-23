@@ -156,6 +156,6 @@ const raisAnnafis = {
 
 <br/>
 
-**Thanks for visiting! Drop a ⭐ if you find something useful ❤**
+**Thanks for visiting! Drop a ⭐ if you find something useful 💜**
 
 </div>
