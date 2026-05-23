@@ -101,7 +101,16 @@ const raisAnnafis = {
 
 <h3>🛠️ Tools & Workflow</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman&theme=dark&perline=8" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=CC2927" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Antigravity%20AI-000000?style=for-the-badge&logo=sparkles&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 <h3>🖥️ Operating System</h3>
