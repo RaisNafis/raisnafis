@@ -1,11 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,20&height=200&section=header&text=Rais%20Annafis&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Code.%20Coffee.%20Create.&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
-
-<br/>
-
 <a href="https://github.com/RaisNafis">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rais+Annafis+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Always+learning%2C+always+building+%F0%9F%9A%80;Coffee-powered+code+machine+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rais+Annafis+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Always+learning%2C+always+building+%F0%9F%9A%80;Coffee-powered+code+machine+%E2%98%95" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -46,7 +41,6 @@ const raisAnnafis = {
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
 <div align="center">
-
 <table>
   <tr>
     <td width="50%">
@@ -75,7 +69,6 @@ const raisAnnafis = {
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;Tech Stack
 
 <div align="center">
-
 ### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,sass&theme=dark&perline=8" />
@@ -93,12 +86,17 @@ const raisAnnafis = {
 
 ### 🗄️ Database & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,aws,docker,linux,nginx&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,aws,docker,nginx&theme=dark&perline=9" />
 </p>
 
 ### 🛠️ Tools & Workflow
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark&perline=8" />
+</p>
+
+### 🖥️ Operating System
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark&perline=8" />
 </p>
 
 </div>
@@ -120,7 +118,6 @@ const raisAnnafis = {
 ## 🤝 &nbsp;Let's Connect
 
 <div align="center">
-
 <a href="mailto:your-email@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -144,8 +141,6 @@ const raisAnnafis = {
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,20&height=100&section=footer&animation=fadeIn" width="100%" />
 
 <i>"First, solve the problem. Then, write the code."</i>
 
