@@ -1,6 +1,9 @@
 <div align="center">
+
+<h1>👋 Hi, I'm Rais Annafis</h1>
+
 <a href="https://github.com/RaisNafis">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rais+Annafis+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Always+learning%2C+always+building+%F0%9F%9A%80;Coffee-powered+code+machine+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Mobile+Developer;Always+learning%2C+always+building+%F0%9F%9A%80;Coffee-powered+code+machine+%E2%98%95" alt="Typing SVG" />
 </a>
 
 </div>
@@ -75,32 +78,33 @@ const raisAnnafis = {
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;Tech Stack
 
 <div align="center">
-### 🎨 Frontend
+
+<h3>🎨 Frontend</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,sass&theme=dark&perline=8" />
 </p>
 
-### ⚙️ Backend
+<h3>⚙️ Backend</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,go&theme=dark&perline=8" />
 </p>
 
-### 📱 Mobile
+<h3>📱 Mobile</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,flutter,dart&theme=dark&perline=8" />
 </p>
 
-### 🗄️ Database & Cloud
+<h3>🗄️ Database & Cloud</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,aws,docker,nginx&theme=dark&perline=9" />
 </p>
 
-### 🛠️ Tools & Workflow
+<h3>🛠️ Tools & Workflow</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark&perline=8" />
 </p>
 
-### 🖥️ Operating System
+<h3>🖥️ Operating System</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark&perline=8" />
 </p>
