@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/RaisNafis">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rais+Annafis+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Always+learning%2C+always+building+%F0%9F%9A%80;Coffee-powered+code+machine+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rais+Annafis+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Always+learning%2C+always+building+%F0%9F%9A%80;Coffee-powered+code+machine+%E2%98%95" alt="Typing SVG" />
 </a>
 
 <br/><br/>
