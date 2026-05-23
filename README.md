@@ -22,18 +22,41 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
+## 🙋 &nbsp;About Me
+
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
 ```ts
 const raisAnnafis = {
   location   : "Indonesia 🇮🇩",
   role       : "Full-Stack & Mobile Developer",
-  passions   : ["Clean Code", "UI/UX", "Open Source", "Coffee ☕"],
-  currentlyOn: "Building awesome things & leveling up every day",
-  funFact    : "I debug with coffee and fix bugs with more coffee",
+  passions   : ["Clean Code", "UI/UX", "Open Source", "Coffee"],
+  currentlyOn: "Building & leveling up every day 🚀",
+  funFact    : "I debug with coffee, fix bugs with more coffee",
   available  : true,
 };
 ```
+
+  </td>
+  <td valign="top" width="40%">
+
+  **🌱 Currently Learning**
+  > Go & System Design
+
+  **💬 Ask Me About**
+  > Web, Mobile, & Backend Dev
+
+  **⚡ Fun Fact**
+  > I spend more time naming variables than writing code
+
+  **📫 Reach Me At**
+  > your-email@gmail.com
+
+  </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -44,19 +67,14 @@ const raisAnnafis = {
 <div align="center">
 <table>
   <tr>
-    <td width="50%">
+    <td width="34%">
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaisNafis&theme=radical" />
     </td>
-    <td width="50%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaisNafis&theme=radical" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
+    <td width="33%">
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaisNafis&theme=radical&utcOffset=7" />
     </td>
-    <td width="50%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaisNafis&theme=radical" />
+    <td width="33%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaisNafis&theme=radical" />
     </td>
   </tr>
 </table>
