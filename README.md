@@ -1,21 +1,19 @@
 <div align="center">
 <a href="https://github.com/RaisNafis">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rais+Annafis+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Always+learning%2C+always+building+%F0%9F%9A%80;Coffee-powered+code+machine+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rais+Annafis+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Always+learning%2C+always+building+%F0%9F%9A%80;Coffee-powered+code+machine+%E2%98%95" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/💻%20Code-0D1117?style=for-the-badge&labelColor=0D1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/☕%20Coffee-0D1117?style=for-the-badge&labelColor=0D1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/🎧%20Music-0D1117?style=for-the-badge&labelColor=0D1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/📚%20Learning-0D1117?style=for-the-badge&labelColor=0D1117" />
-</p>
+## 🏆 &nbsp;GitHub Trophies
 
-<img src="https://komarev.com/ghpvc/?username=RaisNafis&style=for-the-badge&color=c084fc&label=PROFILE+VIEWS" />
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=RaisNafis&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
+
+<br/>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=RaisNafis&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SECRET" />
 
 </div>
 
