@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/RaisNafis">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rais+Annafis+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Always+learning%2C+always+building+%F0%9F%9A%80;Coffee-powered+code+machine+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rais+Annafis+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Always+learning%2C+always+building+%F0%9F%9A%80;Coffee-powered+code+machine+%E2%98%95" alt="Typing SVG" />
 </a>
 
 </div>
@@ -41,10 +41,10 @@ const raisAnnafis = {
 <div align="center">
 <table>
   <tr>
-    <td width="50%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaisNafis&theme=radical" />
+    <td width="55%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=RaisNafis&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=C084FC&text_color=ffffff&rank_icon=github&show_rank=true&include_all_commits=true&count_private=true" />
     </td>
-    <td width="50%">
+    <td width="45%">
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaisNafis&theme=radical" />
     </td>
   </tr>
