@@ -41,11 +41,19 @@ const raisAnnafis = {
 <div align="center">
 <table>
   <tr>
-    <td width="55%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=RaisNafis&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=C084FC&text_color=ffffff&rank_icon=github&show_rank=true&include_all_commits=true&count_private=true" />
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaisNafis&theme=radical" />
     </td>
-    <td width="45%">
+    <td width="50%">
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaisNafis&theme=radical" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaisNafis&theme=radical&utcOffset=7" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaisNafis&theme=radical" />
     </td>
   </tr>
 </table>
