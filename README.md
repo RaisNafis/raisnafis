@@ -29,22 +29,6 @@
 
 ## Connect with me
 
-<a href="https://github.com/RaisNafis">
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="30" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:your-email@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" />
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/your-linkedin">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" />
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/your-instagram">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" />
-</a>
-
----
+<img src="https://skillicons.dev/icons?i=github,instagram,gmail,discord,linkedin&theme=dark&perline=20" />
 
 *"First, solve the problem. Then, write the code."*
