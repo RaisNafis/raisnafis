@@ -29,6 +29,15 @@
 
 ## Connect with me
 
-<img src="https://skillicons.dev/icons?i=github,instagram,gmail,discord,linkedin&theme=dark&perline=20" />
+<p>
+  <a href="https://github.com/RaisNafis">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  </a>
+
+  <a href="https://instagram.com/raisnafs">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+  </a>
+
+</p>
 
 *"First, solve the problem. Then, write the code."*
