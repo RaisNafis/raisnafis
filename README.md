@@ -8,17 +8,30 @@
 
 ---
 
-* 🔭 I’m currently working on **Web & Mobile Development Projects**
+<p>
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="18" align="center" />
+  &nbsp; I’m currently working on <b>Web & Mobile Development Projects</b>
+</p>
 
-* 🌱 I’m currently improving my skills in **React, Next.js, Laravel, Kotlin, .NET, and Cloud**
+<p>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="18" align="center" />
+  &nbsp; I’m currently improving my skills in <b>React, Next.js, Laravel, Kotlin, .NET, and Cloud</b>
+</p>
 
-* 💡 I enjoy building **clean, modern, scalable applications**
+<p>
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="18" align="center" />
+  &nbsp; I enjoy building <b>clean, modern, scalable applications</b>
+</p>
 
-* 🛠️ I like working with **Frontend, Backend, Mobile, and Networking**
+<p>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="18" align="center" />
+  &nbsp; I like working with <b>Frontend, Backend, Mobile, and Networking</b>
+</p>
 
-* 🚀 Always learning, experimenting, and building new things
-
-* 📍 Based in **Indonesia 🇮🇩**
+<p>
+  <img src="https://cdn.simpleicons.org/rocketdotchat/D33847" width="18" align="center" />
+  &nbsp; Always learning, experimenting, and building new things
+</p>
 
 ---
 
