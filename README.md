@@ -13,8 +13,8 @@
 ![GitHub Since](https://img.shields.io/badge/GitHub%20Since-2021-blue)
 ![Status](https://img.shields.io/badge/Status-Ready-brightgreen)
 
-
-
+<div>
+  
 * I’m currently working on **Web & Mobile Development Projects**
 * I’m currently improving my skills in **React, Next.js, Laravel, Kotlin, .NET, and Cloud**
 * I enjoy building **clean, modern, scalable applications**
@@ -22,13 +22,11 @@
 * Always learning, experimenting, and building new things
 * Based in **Indonesia**
 
----
-
 ## Tech Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,php,laravel,go,dotnet,kotlin,androidstudio,mysql,postgres,mongodb,sqlite,firebase,aws,docker,nginx,git,github,vscode,visualstudio&theme=dark&perline=9" />
 
----
+</div>
 
 ## Connect with me
 
