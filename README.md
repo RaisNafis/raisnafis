@@ -10,10 +10,11 @@
 ![Followers](https://img.shields.io/github/followers/RaisNafis?label=Followers\&style=flat)
 ![Stars](https://img.shields.io/github/stars/RaisNafis?affiliations=OWNER\&label=Stars\&style=flat)
 ![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRaisNafis\&query=%24.public_repos\&label=Repositories\&color=blue)
-![GitHub Since](https://img.shields.io/badge/GitHub%20Since-2021-blue)
 ![Total Commits](https://img.shields.io/badge/Total%20Commits-42-0e75b6?style=flat)
 ![Total Contributions](https://img.shields.io/badge/Total%20Contributions-91-0e75b6?style=flat)
 ![Contributed To](https://img.shields.io/badge/Contributed%20To-11-0e75b6?style=flat)
+<br>
+![GitHub Since](https://img.shields.io/badge/GitHub%20Since-2021-blue)
 ![Status](https://img.shields.io/badge/Status-Ready-brightgreen)
 
 * I’m currently working on **Web & Mobile Development Projects**
