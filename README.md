@@ -4,7 +4,14 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=RaisNafis\&label=Profile%20views\&color=0e75b6\&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=RaisNafis\&label=Profile%20Views\&color=0e75b6\&style=flat)
+![Followers](https://img.shields.io/github/followers/RaisNafis?label=Followers\&style=flat)
+![Stars](https://img.shields.io/github/stars/RaisNafis?affiliations=OWNER\&label=Stars\&style=flat)
+![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRaisNafis\&query=%24.public_repos\&label=Repositories\&color=blue)
+![GitHub Since](https://img.shields.io/badge/GitHub%20Since-2021-blue)
+![Status](https://img.shields.io/badge/Status-Ready-brightgreen)
+
+<br/>
 
 * I’m currently working on **Web & Mobile Development Projects**
 * I’m currently improving my skills in **React, Next.js, Laravel, Kotlin, .NET, and Cloud**
