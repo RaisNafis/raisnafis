@@ -1,6 +1,6 @@
-# Hi, I'm Rais Annafis
+# Hello, I'm Rais
 
-### Full-Stack & Mobile Developer
+### Full-Stack & Software Developer
 
 ---
 
