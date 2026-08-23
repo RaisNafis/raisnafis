@@ -1,4 +1,4 @@
-# Hello, I'm Rais
+# Hi 👋, I'm Rais
 
 ### Full-Stack & Software Developer
 
