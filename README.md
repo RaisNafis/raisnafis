@@ -17,12 +17,16 @@
 ![GitHub Since](https://img.shields.io/badge/GitHub%20Since-2021-blue)
 ![Status](https://img.shields.io/badge/Status-Ready-brightgreen)
 
-* Currently working on **Web & Mobile Development Projects**
-* Improving my skills in **React, Next.js, Laravel, Kotlin, .NET, and Cloud**
-* Building **clean, modern, and scalable applications**
-* Interested in **Frontend, Backend, Mobile, and Networking**
+* Currently building **Web, App, and AI Projects**
+* Continuously improving my skills in **React, Next.js, Laravel, Kotlin, .NET, and Cloud Technologies**
+* Focused on creating **clean, modern, scalable, and user-friendly applications**
+* Passionate about **Frontend, Backend, Mobile Development, AI, and Networking**
 * Always learning, experimenting, and exploring new technologies
 * Based in **Indonesia**
+* **16-year-old SMK student** with a strong interest in software engineering and technology
+* Recipient of the **Medallion for Excellence (MoE)** in **IT Software Solutions for Business**
+* **1st Place — LKS Province, IT Software Solutions for Business**
+* **2nd Place — LKS Province, Web Technologies**
 
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,php,dart,kotlin,lua,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,laravel,androidstudio,flutter,mysql,postgres,mongodb,sqlite,supabase,aws,cloudflare,nginx,vercel,netlify,docker,git,github,vscode,visualstudio,npm,windows,linux,ubuntu,debian&theme=dark&perline=20" />
