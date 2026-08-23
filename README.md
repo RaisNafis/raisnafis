@@ -22,11 +22,12 @@
 * Always learning, experimenting, and building new things
 * Based in **Indonesia**
 
+</div>
+
 ## Tech Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,php,laravel,go,dotnet,kotlin,androidstudio,mysql,postgres,mongodb,sqlite,firebase,aws,docker,nginx,git,github,vscode,visualstudio&theme=dark&perline=9" />
 
-</div>
 
 ## Connect with me
 
