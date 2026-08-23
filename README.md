@@ -4,6 +4,8 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=RaisNafis\&label=Profile%20views\&color=0e75b6\&style=flat)
+
 * I’m currently working on **Web & Mobile Development Projects**
 * I’m currently improving my skills in **React, Next.js, Laravel, Kotlin, .NET, and Cloud**
 * I enjoy building **clean, modern, scalable applications**
