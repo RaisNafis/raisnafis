@@ -20,13 +20,11 @@
 * Currently building **Web, App, and AI Projects**
 * Continuously improving my skills in **React, Next.js, Laravel, Kotlin, .NET, and Cloud Technologies**
 * Focused on creating **clean, modern, scalable, and user-friendly applications**
-* Passionate about **Frontend, Backend, Mobile Development, AI, and Networking**
-* Always learning, experimenting, and exploring new technologies
-* Based in **Indonesia**
+* More interested in **Backend Development**, especially building APIs, databases, authentication systems, and scalable server-side applications
+* Skilled in leveraging **AI-powered development tools and coding agents**, including IDE agents such as **Antigravity and Codex**, as well as CLI agents like **OpenCode, Hermes, and OpenClaw**
+* **4 years of coding experience**
 * **16-year-old SMK student** with a strong interest in software engineering and technology
 * Recipient of the **Medallion for Excellence (MoE)** in **IT Software Solutions for Business**
-* **1st Place — LKS Province, IT Software Solutions for Business**
-* **2nd Place — LKS Province, Web Technologies**
 
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,php,dart,kotlin,lua,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,laravel,androidstudio,flutter,mysql,postgres,mongodb,sqlite,supabase,aws,cloudflare,nginx,vercel,netlify,docker,git,github,vscode,visualstudio,npm,windows,linux,ubuntu,debian&theme=dark&perline=20" />
