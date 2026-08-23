@@ -24,7 +24,7 @@
 * Skilled in leveraging **AI-powered development tools and coding agents**, including IDE agents such as **Antigravity and Codex**, as well as CLI agents like **OpenCode, Hermes, and OpenClaw**
 * **4 years of coding experience**
 * **16-year-old SMK student** with a strong interest in software engineering and technology
-* Recipient of the **Medallion for Excellence (MoE)** in **IT Software Solutions for Business**
+* Recipient of the **Medallion for Excellence (MoE)** at **LKS National** in **IT Software Solutions for Business**
 
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,php,dart,kotlin,lua,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,laravel,androidstudio,flutter,mysql,postgres,mongodb,sqlite,supabase,aws,cloudflare,nginx,vercel,netlify,docker,git,github,vscode,visualstudio,npm,windows,linux,ubuntu,debian&theme=dark&perline=20" />
