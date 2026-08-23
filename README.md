@@ -17,11 +17,11 @@
 ![GitHub Since](https://img.shields.io/badge/GitHub%20Since-2021-blue)
 ![Status](https://img.shields.io/badge/Status-Ready-brightgreen)
 
-* I’m currently working on **Web & Mobile Development Projects**
-* I’m currently improving my skills in **React, Next.js, Laravel, Kotlin, .NET, and Cloud**
-* I enjoy building **clean, modern, scalable applications**
-* I like working with **Frontend, Backend, Mobile, and Networking**
-* Always learning, experimenting, and building new things
+* Currently working on **Web & Mobile Development Projects**
+* Improving my skills in **React, Next.js, Laravel, Kotlin, .NET, and Cloud**
+* Building **clean, modern, and scalable applications**
+* Interested in **Frontend, Backend, Mobile, and Networking**
+* Always learning, experimenting, and exploring new technologies
 * Based in **Indonesia**
 
 ## Tech Stack
