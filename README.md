@@ -11,7 +11,7 @@
 ![GitHub Since](https://img.shields.io/badge/GitHub%20Since-2021-blue)
 ![Status](https://img.shields.io/badge/Status-Ready-brightgreen)
 
-<br/>
+
 
 * I’m currently working on **Web & Mobile Development Projects**
 * I’m currently improving my skills in **React, Next.js, Laravel, Kotlin, .NET, and Cloud**
