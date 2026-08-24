@@ -28,6 +28,11 @@
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,php,dart,kotlin,lua,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,laravel,androidstudio,flutter,mysql,postgres,mongodb,sqlite,supabase,aws,cloudflare,nginx,vercel,netlify,docker,git,github,vscode,visualstudio,npm,windows,linux,ubuntu,debian&theme=dark&perline=18" />
 
+## Github Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaisNafis&layout=compact&theme=github_dark&hide_border=true)
+
+--
+
 ## Connect with me
 
 <p>
