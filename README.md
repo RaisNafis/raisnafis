@@ -31,9 +31,9 @@
 ## GitHub Stats
 <div align="left">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaisNafis&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaisNafis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="195" alt="Top Languages" />
+![](https://github-readme-stats.shion.dev/api?username=raisnafis&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=raisnafis&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=raisnafis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
