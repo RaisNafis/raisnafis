@@ -30,9 +30,8 @@
 
 ## GitHub Stats
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.anuraghazra1.workers.dev/api?username=RaisNafis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.anuraghazra1.workers.dev/api/top-langs/?username=RaisNafis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaisNafis&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaisNafis&theme=radical)
 </div>
 
 ## Connect with me
