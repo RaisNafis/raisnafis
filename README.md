@@ -31,12 +31,11 @@
 ## GitHub Stats
 <div align="left">
 
-![](https://github-readme-stats.shion.dev/api?username=raisnafis&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=raisnafis&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=raisnafis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.shion.dev/api?username=raisnafis&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="32%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=raisnafis&theme=dark&hide_border=false" width="32%" alt="GitHub Streak" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=raisnafis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="32%" alt="Top Languages" />
 
 </div>
-
 ## Connect with me
 
 <p>
