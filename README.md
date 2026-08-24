@@ -29,10 +29,18 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,php,dart,kotlin,lua,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,laravel,androidstudio,flutter,mysql,postgres,mongodb,sqlite,supabase,aws,cloudflare,nginx,vercel,netlify,docker,git,github,vscode,visualstudio,npm,windows,linux,ubuntu,debian&theme=dark&perline=18" />
 
 ## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=RaisNafis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Rais's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaisNafis&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaisNafis&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.anuraghazra1.workers.dev/api?username=RaisNafis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.workers.dev/api/top-langs/?username=RaisNafis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaisNafis&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <!-- Ganti repo-name-1 dan repo-name-2 dengan repo publikmu -->
+  <a href="https://github.com/RaisNafis">
+    <img src="https://github-readme-stats.anuraghazra1.workers.dev/api/pin/?username=RaisNafis&repo=repo-name-1&theme=tokyonight&hide_border=true" height="165" alt="Top Repo 1" />
+  </a>
+  <a href="https://github.com/RaisNafis">
+    <img src="https://github-readme-stats.anuraghazra1.workers.dev/api/pin/?username=RaisNafis&repo=repo-name-2&theme=tokyonight&hide_border=true" height="165" alt="Top Repo 2" />
+  </a>
+</div>
 
 ## Connect with me
 
