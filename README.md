@@ -33,13 +33,6 @@
   <img src="https://github-readme-stats.anuraghazra1.workers.dev/api?username=RaisNafis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.anuraghazra1.workers.dev/api/top-langs/?username=RaisNafis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaisNafis&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-  <!-- Ganti repo-name-1 dan repo-name-2 dengan repo publikmu -->
-  <a href="https://github.com/RaisNafis">
-    <img src="https://github-readme-stats.anuraghazra1.workers.dev/api/pin/?username=RaisNafis&repo=Auto-setup-GTPS&theme=tokyonight&hide_border=true" height="165" alt="Top Repo 1" />
-  </a>
-  <a href="https://github.com/RaisNafis">
-    <img src="https://github-readme-stats.anuraghazra1.workers.dev/api/pin/?username=RaisNafis&repo=repo-name-2&theme=tokyonight&hide_border=true" height="165" alt="Top Repo 2" />
-  </a>
 </div>
 
 ## Connect with me
