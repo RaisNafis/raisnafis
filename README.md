@@ -32,7 +32,6 @@
 </div>
 
 ## Connect with me
-
 <p>
   <a href="https://github.com/RaisNafis">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" />
