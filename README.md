@@ -35,7 +35,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaisNafis&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
   <!-- Ganti repo-name-1 dan repo-name-2 dengan repo publikmu -->
   <a href="https://github.com/RaisNafis">
-    <img src="https://github-readme-stats.anuraghazra1.workers.dev/api/pin/?username=RaisNafis&repo=repo-name-1&theme=tokyonight&hide_border=true" height="165" alt="Top Repo 1" />
+    <img src="https://github-readme-stats.anuraghazra1.workers.dev/api/pin/?username=RaisNafis&repo=Auto-setup-GTPS&theme=tokyonight&hide_border=true" height="165" alt="Top Repo 1" />
   </a>
   <a href="https://github.com/RaisNafis">
     <img src="https://github-readme-stats.anuraghazra1.workers.dev/api/pin/?username=RaisNafis&repo=repo-name-2&theme=tokyonight&hide_border=true" height="165" alt="Top Repo 2" />
