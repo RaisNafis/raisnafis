@@ -30,8 +30,11 @@
 
 ## GitHub Stats
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 10px;">
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaisNafis&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaisNafis&theme=radical)
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaisNafis&theme=radical" height="165" alt="Most Used Languages" />
+
 </div>
 
 ## Connect with me
