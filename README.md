@@ -37,7 +37,6 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=raisnafis&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="32%" alt="Most Used Languages" />
 </div>
 
-
 ## Connect with me
 
 <p>
