@@ -29,11 +29,11 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,php,dart,kotlin,lua,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,laravel,androidstudio,flutter,mysql,postgres,mongodb,sqlite,supabase,aws,cloudflare,nginx,vercel,netlify,docker,git,github,vscode,visualstudio,npm,windows,linux,ubuntu,debian&theme=dark&perline=18" />
 
 ## GitHub Stats
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 10px;">
+<div align="left">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaisNafis&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaisNafis&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaisNafis&theme=radical" height="165" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaisNafis&layout=donut&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 
 </div>
 
