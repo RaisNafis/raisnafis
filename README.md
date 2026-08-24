@@ -28,18 +28,11 @@
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,php,dart,kotlin,lua,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,laravel,androidstudio,flutter,mysql,postgres,mongodb,sqlite,supabase,aws,cloudflare,nginx,vercel,netlify,docker,git,github,vscode,visualstudio,npm,windows,linux,ubuntu,debian&theme=dark&perline=18" />
 
---
 ## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaisNafis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Rais's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaisNafis&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=RaisNafis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Rais's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaisNafis&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaisNafis&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaisNafis&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
---
 
 ## Connect with me
 
