@@ -33,7 +33,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=raisnafis&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="32%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=raisnafis&theme=tokyonight&hide_border=true" width="32%" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaisNafis&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=raisnafis&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="32%" alt="Most Used Languages" />
 
 </div>
