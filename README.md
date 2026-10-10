@@ -13,7 +13,7 @@
 ![Status](https://img.shields.io/badge/Status-Ready-brightgreen)
 
 * Currently building **Web, App, and AI Projects**
-* Continuously improving my skills in **React, Next.js, Laravel, Kotlin, .NET, and Cloud Technologies**
+* Continuously improving my skills in **React, Next.js, Laravel, Kotlin, .NET, and Cloud Technologiess**
 * More interested in **Backend Development**, especially building APIs, databases, authentication systems, and scalable server-side applications
 * Skilled in leveraging **AI-powered development tools and coding agents**, including IDE agents such as **Antigravity and Codex**, as well as CLI agents like **OpenCode, Hermes, and OpenClaw**
 * **4 years of coding experience**
